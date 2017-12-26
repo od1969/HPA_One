@@ -19,10 +19,14 @@ HPA_One_4box用のロープロファイルピンソケット
 を取付可能です。  
   
 ## HPA_One_VR
-HPA_One_AMP_UNIV、HPA_One ヘッドフォンアンプに対応する基板です。  
+HPA_One_AMP_UNIV、HPA_One ヘッドフォンアンプ基板に対応する基板です。  
 ALPS RK097シリーズの２連ボリューム(スイッチ付)を取付可能です。  
   
 ## HPA_One_4box_TOP/BTM
 単4電池4本を収納可能な電池ボックス基板です。  
 別途サポート材が必要です。 https://make.dmm.com/item/848283/  
 HPA_One_AMP_UNIVと組み合わせタカチ MX2-6-10に収まります。  
+
+## HPA_One_Panel
+タカチMX2-6シリーズに対応するパネルです。
+HPA_One_AMP_UNIV、HPA_One ヘッドフォンアンプ基板に対応します。
